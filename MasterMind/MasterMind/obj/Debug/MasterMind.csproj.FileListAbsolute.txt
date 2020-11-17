@@ -1,0 +1,14 @@
+C:\Users\New User\source\repos\MasterMind\bin\Debug\MasterMind.exe.config
+C:\Users\New User\source\repos\MasterMind\bin\Debug\MasterMind.exe
+C:\Users\New User\source\repos\MasterMind\bin\Debug\MasterMind.pdb
+C:\Users\New User\source\repos\MasterMind\obj\Debug\MasterMind.csprojAssemblyReference.cache
+C:\Users\New User\source\repos\MasterMind\obj\Debug\MasterMind.Form1.resources
+C:\Users\New User\source\repos\MasterMind\obj\Debug\MasterMind.Properties.Resources.resources
+C:\Users\New User\source\repos\MasterMind\obj\Debug\MasterMind.csproj.GenerateResource.cache
+C:\Users\New User\source\repos\MasterMind\obj\Debug\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\New User\source\repos\MasterMind\obj\Debug\MasterMind.exe
+C:\Users\New User\source\repos\MasterMind\obj\Debug\MasterMind.pdb
+C:\Users\New User\source\repos\MasterMind\bin\Debug\MasterMind.exe.manifest
+C:\Users\New User\source\repos\MasterMind\bin\Debug\MasterMind.application
+C:\Users\New User\source\repos\MasterMind\obj\Debug\MasterMind.exe.manifest
+C:\Users\New User\source\repos\MasterMind\obj\Debug\MasterMind.application
